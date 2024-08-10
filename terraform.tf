@@ -8,8 +8,8 @@ terraform{
 }
 provider "aws"{
     region="ap-south-1"
-    access_key="AKIAQE3RO345IXLLD72I"
-    secret_key="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"
+    access_key="
+    secret_key="
 }
 
 module "ec2-instance"{
